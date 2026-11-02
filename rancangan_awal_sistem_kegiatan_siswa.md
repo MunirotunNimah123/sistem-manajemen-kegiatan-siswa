@@ -2,9 +2,9 @@
 
 **Judul penelitian:**
 
-Sistem Informasi Manajemen Kegiatan Siswa Berbasis Web dengan
+**Sistem Informasi Manajemen Kegiatan Siswa Berbasis Web dengan
 Implementasi Chatbot Menggunakan Cosine Similarity di SMK Negeri 2
-Konawe Selatan
+Konawe Selatan**
 
 Dokumen ini berisi gambaran awal alur aplikasi dan aktor yang terlibat.
 Rancangan masih dapat disesuaikan berdasarkan arahan dosen pembimbing
